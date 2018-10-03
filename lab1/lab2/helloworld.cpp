@@ -1,0 +1,13 @@
+// Nubia Balderas Ibarra
+//Cosc 1337
+//Hello World
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Hello world!" << endl;
+    return 0;
+}
