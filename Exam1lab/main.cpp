@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include "compare.h"
-using namespace sd;
+using namespace std;
 
 int main()
 {
@@ -15,3 +15,4 @@ int main()
 		cin >> var;
 
 }
+return 0 ;
