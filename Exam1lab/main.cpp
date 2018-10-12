@@ -2,17 +2,20 @@
 // COSC 1337
 
 #include <iostream>
-#include "compare.h"
+//#include "compare.h"
+
 using namespace std;
 
 int main()
 {
-	double var1, var2
+	double var1;
+	double var2;
 
 		cout << "Please enter a number:\n";
-	    cin >> var1;
-		cout << "Please enter a second numbe:\n";
-		cin >> var;
+	        cin >> var1;
+		cout << "Please enter a second number:\n";
+		cin >> var2;
+
+return 0;
 
 }
-return 0 ;
